@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+python-multipart
+langchain-openai
+langchain-community
+langchain-huggingface
+pypdf
+chromadb
+python-dotenv
