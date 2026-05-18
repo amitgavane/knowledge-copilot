@@ -50,7 +50,7 @@ function App() {
     setIsLoading(true);
 
     try {
-      const response = await axios.post('http://127.0.0.1:8000/chat', {
+     const response = await axios.post('https://knowledge-copilot-i29b.onrender.com/chat', {
         question: userMessage.text
       });
       
